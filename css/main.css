@@ -1,0 +1,13 @@
+*{outline: solid 1px rgba(255,0,0,0.3);}
+*{outline: solid 1px rgba(255,0,0,0.3);}
+open {
+  margin-bottom: 20px;
+}
+.header{
+  background-color: #484848;;
+  color: #fff;
+  width: 150px;
+  padding: 2px;
+  text-align: center;
+  margin-left: 320px;
+}
